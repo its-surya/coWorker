@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056324729687",
+    "project_id": "coworker-f1931",
+    "storage_bucket": "coworker-f1931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056324729687:android:9761a971b5fb9544575c12",
+        "android_client_info": {
+          "package_name": "com.platform.coworker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056324729687-b9dlbgv09sio0sbmjp54052856ddh1im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platform.coworker",
+            "certificate_hash": "3489085ad344c865d1b8afdf82867b3f15ca30b8"
+          }
+        },
+        {
+          "client_id": "1056324729687-acausvk7p1e4q02qic0ql6d6tfo2m6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdo7_JuHpLas_zB2VC2vQSiB6LCdd6YdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056324729687-acausvk7p1e4q02qic0ql6d6tfo2m6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
